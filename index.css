@@ -1,0 +1,53 @@
+#divMain1{
+    display: flex;
+    justify-content: end;
+}
+#divMain1>a{
+    margin: 10px;
+    text-decoration: none;
+}
+#divMain>span{
+    margin: 10px;
+}
+#divMain2{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
+button{
+    background-color: black;
+    color: white;
+}
+#main2>div>button{
+    background-color: blue;
+}
+#Main3 { 
+    display: flex;
+    justify-content: center;
+
+
+
+}
+#Main3>div{
+    margin: 20px;
+}
+
+
+#grid{
+    height: 50px;
+    width: 50px;
+    border-radius:100px ;
+}
+h3{
+    transform: rotate(-90deg);
+    margin-left: 500px;
+    margin-bottom: 150px;
+}
+#divsub1{
+    box-shadow:0px 18px 28px rgba(0,0,0,0.25),
+   0px 18px 28px rgba(0,0,0,0.25),
+
+
+}
+
